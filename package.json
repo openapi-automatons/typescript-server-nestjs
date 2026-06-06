@@ -1,0 +1,76 @@
+{
+  "name": "@automatons/typescript-server-nestjs",
+  "version": "0.0.0",
+  "repository": "https://github.com/openapi-automatons/typescript-server-nestjs.git",
+  "author": "tanmen <yt.prog@gmail.com>",
+  "license": "MIT",
+  "packageManager": "yarn@1.22.22",
+  "type": "module",
+  "keywords": [
+    "openapi",
+    "openapi-automatons",
+    "automatons",
+    "nestjs",
+    "server"
+  ],
+  "main": "index.js",
+  "module": "index.js",
+  "types": "index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "import": "./index.js"
+    }
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "prebuild": "depcheck",
+    "build": "tsup && cp package.json README.md LICENSE dist",
+    "lint": "eslint src",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:coverage": "vitest run --coverage",
+    "prepare": "husky"
+  },
+  "dependencies": {
+    "@automatons/parser": "^1.2.0",
+    "@automatons/tools": "^2.2.0",
+    "prettier": "^3.8.3",
+    "ts-morph": "^28.0.0"
+  },
+  "peerDependencies": {
+    "@nestjs/common": "^10 || ^11",
+    "class-transformer": "^0.5",
+    "class-validator": "^0.14",
+    "openapi-automatons": "^2"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^21.0.2",
+    "@commitlint/config-conventional": "^21.0.2",
+    "@eslint/js": "^10.0.1",
+    "@nestjs/common": "^11.0.0",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@types/node": "^24.0.0",
+    "@vitest/coverage-v8": "^3.2.0",
+    "class-transformer": "^0.5.1",
+    "class-validator": "^0.14.0",
+    "depcheck": "^1.4.7",
+    "eslint": "^10.4.1",
+    "eslint-config-prettier": "^10.1.8",
+    "husky": "^9.1.7",
+    "lint-staged": "^17.0.7",
+    "reflect-metadata": "^0.2.0",
+    "rxjs": "^7.8.0",
+    "semantic-release": "^25.0.3",
+    "tsup": "^8.5.0",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.46.0",
+    "vitest": "^3.2.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

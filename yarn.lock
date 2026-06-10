@@ -38,15 +38,15 @@
     "@jridgewell/gen-mapping" "^0.3.5"
     "@jridgewell/trace-mapping" "^0.3.24"
 
-"@automatons/parser@^1.2.1":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.1.tgz#8827f722a770dc6fded3862a8d55b2946a1cb42c"
-  integrity sha512-RfYGhOKBJM8grq+Xx+dGKVtv+DPRZ2bG3NU0tEIV7czvjVJ1ZwvxUznC10STPgTncPwTt+6LlayMKuRswdovmA==
+"@automatons/parser@^1.2.3":
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.3.tgz#592a922dc817947393735bd57a67b59057b09b6a"
+  integrity sha512-HrPeNla+Z1eU6qcVcadswzKYZEGbZHjFOVmMkAFFDPHVCrwAlfCpR18/5mj7SHfGKsYPAq8RktDsS4iUTVWSDQ==
   dependencies:
-    "@automatons/tools" "^2.2.0"
+    "@automatons/tools" "^2.2.1"
     change-case "^5.4.4"
 
-"@automatons/tools@^2.2.0", "@automatons/tools@^2.2.1":
+"@automatons/tools@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-2.2.1.tgz#00c90262f4eb39593e5407d1389a502ceabd3739"
   integrity sha512-vHFzpeAo3JIz2p1ffe9cfZBHrW1qRtxLgwb4FusoIjKmXS9cj+xBqpXPu2h0YQAiNIzSJ5BvbxLImHUMeFIXHA==
@@ -4614,10 +4614,10 @@ safe-buffer@~5.1.0, safe-buffer@~5.1.1:
   resolved "https://registry.yarnpkg.com/safer-buffer/-/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
 
-semantic-release@^25.0.3:
-  version "25.0.3"
-  resolved "https://registry.yarnpkg.com/semantic-release/-/semantic-release-25.0.3.tgz#77c2a7bfdcc63125fa2dea062d2cee28662ce224"
-  integrity sha512-WRgl5GcypwramYX4HV+eQGzUbD7UUbljVmS+5G1uMwX/wLgYuJAxGeerXJDMO2xshng4+FXqCgyB5QfClV6WjA==
+semantic-release@^25.0.5:
+  version "25.0.5"
+  resolved "https://registry.yarnpkg.com/semantic-release/-/semantic-release-25.0.5.tgz#67be786556e40e8e81c591a12f38877f1eee6052"
+  integrity sha512-mn61SUJwtM8ThrWn2WmgLVpwVJeG/hPSupua1psdMoufmwRIPyvRLkRkL0JDXkP67OntlLWUYnBnfVc8EDO3/g==
   dependencies:
     "@semantic-release/commit-analyzer" "^13.0.1"
     "@semantic-release/error" "^4.0.0"

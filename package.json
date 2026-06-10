@@ -35,7 +35,7 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "@automatons/parser": "^1.2.1",
+    "@automatons/parser": "^1.2.3",
     "@automatons/tools": "^2.2.1",
     "prettier": "^3.8.4",
     "ts-morph": "^28.0.0"
@@ -64,7 +64,7 @@
     "lint-staged": "^17.0.7",
     "reflect-metadata": "^0.2.0",
     "rxjs": "^7.8.0",
-    "semantic-release": "^25.0.3",
+    "semantic-release": "^25.0.5",
     "tsup": "^8.5.0",
     "typescript": "^6.0.3",
     "typescript-eslint": "^8.61.0",

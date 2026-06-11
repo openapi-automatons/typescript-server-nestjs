@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "@automatons/parser": "^1.2.5",
-    "@automatons/tools": "^2.2.2",
+    "@automatons/tools": "^2.2.3",
     "prettier": "^3.8.4",
     "ts-morph": "^28.0.0"
   },

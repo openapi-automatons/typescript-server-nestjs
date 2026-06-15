@@ -38,15 +38,15 @@
     "@jridgewell/gen-mapping" "^0.3.5"
     "@jridgewell/trace-mapping" "^0.3.24"
 
-"@automatons/parser@^1.2.7":
-  version "1.2.7"
-  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.7.tgz#e65da7c5d25873a1a565c3933e35eb4624ba7d9e"
-  integrity sha512-xglICPrMqxQ0J2Ic638q0/2r1fNLg14Ne5FbuEgdjM9XfDLMdfdneNYLSLLwzlmvSeuiKp2g2TnNIS0o/sWqUA==
+"@automatons/parser@^1.2.8":
+  version "1.2.8"
+  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.8.tgz#567890ea8c5b8bbdb35bd9b8c7f0986bc3d884cd"
+  integrity sha512-/dpHS+dXfYR6zbB7SnZdsCs6hLcFTWBcY52Dyci7b4h7z4b4OMiiTEdorps2sgWYNLoeWc+O4JB2smYc0vElqg==
   dependencies:
-    "@automatons/tools" "^2.2.3"
+    "@automatons/tools" "^2.2.4"
     change-case "^5.4.4"
 
-"@automatons/tools@^2.2.3", "@automatons/tools@^2.2.4":
+"@automatons/tools@^2.2.4":
   version "2.2.4"
   resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-2.2.4.tgz#3a2d19de833292bfd2924046d8069edd03c8e189"
   integrity sha512-PZwVyMYuV5ZK8PXINNZfizNlDhnKHy4Uqh8A9o3ruSxkk76rTLr44NvZaKJiDSSy/74k3Pfu7BPN3hKogW8qzw==

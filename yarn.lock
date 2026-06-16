@@ -38,10 +38,10 @@
     "@jridgewell/gen-mapping" "^0.3.5"
     "@jridgewell/trace-mapping" "^0.3.24"
 
-"@automatons/parser@^1.2.8":
-  version "1.2.8"
-  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.8.tgz#567890ea8c5b8bbdb35bd9b8c7f0986bc3d884cd"
-  integrity sha512-/dpHS+dXfYR6zbB7SnZdsCs6hLcFTWBcY52Dyci7b4h7z4b4OMiiTEdorps2sgWYNLoeWc+O4JB2smYc0vElqg==
+"@automatons/parser@^1.2.9":
+  version "1.2.9"
+  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.9.tgz#1a2a18ec627978bd0cc3093cf577789c2af06437"
+  integrity sha512-NUg2/5bMEkcjqkp3gfaPH0eW/SKItuF6svPwpkJlwlcU6Rc6hlLsWLiT8Jcqr2YVZ6gh8WLwXTm/HbLkuiGc5w==
   dependencies:
     "@automatons/tools" "^2.2.4"
     change-case "^5.4.4"

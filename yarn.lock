@@ -46,12 +46,12 @@
     "@automatons/tools" "^2.2.11"
     change-case "^5.4.4"
 
-"@automatons/tools@^2.2.11":
-  version "2.2.11"
-  resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-2.2.11.tgz#be1806d8673459c0ce6c041f03b0b171f8c95122"
-  integrity sha512-IbamQb+pP80f9u7rOw73S4DE8s0y8PGDspCCsfJKdcpdLKor6ZeTpeXF1uRBtc/1F5ZqJahdfS5xfKMO1X1xXw==
+"@automatons/tools@^2.2.11", "@automatons/tools@^2.2.15":
+  version "2.2.15"
+  resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-2.2.15.tgz#5c9a42f3634405cabb03cf538b971346d937c63b"
+  integrity sha512-iq6LEqXzOylJWoQnURWGCMM9a/Cc2uc8hl+ovzuTw15tTtacLjhJjnoISjI558sdMen/obWVFZ/ebRlDF80ptg==
   dependencies:
-    js-yaml "^5.1.0"
+    js-yaml "^5.2.0"
 
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.26.2", "@babel/code-frame@^7.29.7":
   version "7.29.7"
@@ -3180,10 +3180,10 @@ js-yaml@^4.1.0:
   dependencies:
     argparse "^2.0.1"
 
-js-yaml@^5.1.0:
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-5.1.0.tgz#c084ac880197833810a69e9c7e51eae12ff35448"
-  integrity sha512-s8VA5jkR8f22S3NAXmhKPFqGUduqZGlsufabVOgN14iTdw/RXcym7bKkbwjxLK9Yw2lEvvmJjFp119+KPeo8Kg==
+js-yaml@^5.2.0:
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-5.2.0.tgz#b559a892cae3e32fc5afecc9f18e1672378ddb68"
+  integrity sha512-YeLUMlvR4Ou1B119LIaM0r65JvbOBooJDc9yEu0dClb/uSC5P4FrLU8OCCz/HXWvtPoIrR0dRzABTjo1sTN9Bw==
   dependencies:
     argparse "^2.0.1"
 

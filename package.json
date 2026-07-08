@@ -47,7 +47,7 @@
     "openapi-automatons": "^2"
   },
   "devDependencies": {
-    "@commitlint/cli": "^21.2.0",
+    "@commitlint/cli": "^21.2.1",
     "@commitlint/config-conventional": "^21.1.0",
     "@eslint/js": "^10.0.1",
     "@nestjs/common": "^11.1.27",

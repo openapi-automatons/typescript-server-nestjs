@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.7...v1.0.8) (2026-08-04)
+
+
+### Bug Fixes
+
+* **deps:** bump ip-address from 10.2.0 to 10.4.0 ([#102](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/102)) ([8ccf39b](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/8ccf39b0908d05bd476b18d3ed5d707572b1847b))
+
 ## [1.0.7](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.6...v1.0.7) (2026-07-30)
 
 

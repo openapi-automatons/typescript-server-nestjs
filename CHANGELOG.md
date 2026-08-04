@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.9...v1.0.10) (2026-08-04)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump lint-staged from 17.2.0 to 17.3.0 ([#104](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/104)) ([c8ab1f0](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/c8ab1f081a29bffe79df1da49bf3f18ff4522315))
+
 ## [1.0.9](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.8...v1.0.9) (2026-08-04)
 
 

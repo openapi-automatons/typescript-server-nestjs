@@ -1,3 +1,11 @@
+## [1.0.11](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.10...v1.0.11) (2026-08-07)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump typescript-eslint from 8.65.0 to 8.66.0 ([#107](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/107)) ([fc33bef](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/fc33bef478b9c70df76152e162cebf1cd1afaca8))
+* **deps:** bump @[secure]/parser from 1.2.53 to 1.2.54 ([#105](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/105)) ([ea1e424](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/ea1e4241a0f4c5fb2e1b4f8b74c578c6f233eba1))
+
 ## [1.0.10](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.9...v1.0.10) (2026-08-04)
 
 

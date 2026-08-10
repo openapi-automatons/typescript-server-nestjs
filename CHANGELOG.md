@@ -1,3 +1,11 @@
+## [1.0.13](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.12...v1.0.13) (2026-08-10)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump semantic-release from 25.0.8 to 25.0.9 ([#108](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/108)) ([f50afcc](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/f50afcc55868216b4e44b26dec8724628a1e1756))
+* **deps:** bump @[secure]/parser from 1.2.54 to 1.2.55 ([#109](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/109)) ([b373afb](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/b373afbf479b992ac3cd8593327b04e0e9681473))
+
 ## [1.0.12](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.11...v1.0.12) (2026-08-07)
 
 

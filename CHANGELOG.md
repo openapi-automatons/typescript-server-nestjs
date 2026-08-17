@@ -1,3 +1,11 @@
+## [1.0.17](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.16...v1.0.17) (2026-08-17)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/config-conventional ([#120](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/120)) ([182e31d](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/182e31d226457f19d35b2118f4e2ce75bfdd7d6c))
+* **deps:** bump @[secure]/parser from 1.2.58 to 1.2.60 ([#118](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/118)) ([f8c4e43](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/f8c4e43d22d19acf0702965db1532ee0e25b380b))
+
 ## [1.0.16](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.15...v1.0.16) (2026-08-14)
 
 

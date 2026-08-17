@@ -1,3 +1,10 @@
+## [1.0.18](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.17...v1.0.18) (2026-08-17)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/cli from 21.2.1 to 21.2.2 ([#121](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/121)) ([a77c3e0](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/a77c3e0c80b21345ea6dc68addaf8784e9c4d56e))
+
 ## [1.0.17](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.16...v1.0.17) (2026-08-17)
 
 

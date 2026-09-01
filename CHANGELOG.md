@@ -1,3 +1,10 @@
+## [1.0.26](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.25...v1.0.26) (2026-09-01)
+
+
+### Bug Fixes
+
+* **deps:** bump postcss-selector-parser from 7.1.1 to 7.1.5 ([#137](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/137)) ([ad89d74](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/ad89d749c01db5293eac138b1afc2c121d03f593))
+
 ## [1.0.25](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.24...v1.0.25) (2026-09-01)
 
 

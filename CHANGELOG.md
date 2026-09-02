@@ -1,3 +1,10 @@
+## [1.0.27](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.26...v1.0.27) (2026-09-02)
+
+
+### Bug Fixes
+
+* **deps:** bump fast-uri from 3.1.5 to 3.1.7 ([#138](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/138)) ([f4fdf0a](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/f4fdf0a796c5fc8c179d899c7e3b773876b887d7))
+
 ## [1.0.26](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.25...v1.0.26) (2026-09-01)
 
 

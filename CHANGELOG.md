@@ -1,3 +1,10 @@
+## [1.0.29](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.28...v1.0.29) (2026-10-30)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump typescript-eslint from 8.72.0 to 8.72.1 ([#193](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/193)) ([5a9459b](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/5a9459bd55ca26be8bfb16e71eef293a6217eeff))
+
 ## [1.0.28](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.27...v1.0.28) (2026-10-30)
 
 

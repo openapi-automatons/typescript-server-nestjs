@@ -1,3 +1,12 @@
+## [1.0.31](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.30...v1.0.31) (2026-11-02)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @types/node from 26.6.5 to 26.6.6 ([#197](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/197)) ([1852c16](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/1852c1627a1a6c68bf61b368fd9b780b1a31841e))
+* **deps:** bump @[secure]/tools from 2.2.49 to 2.2.50 ([#196](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/196)) ([5ff2431](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/5ff2431d8b7cb6ca656a102ab4303e778bc83037))
+* **deps:** bump brace-expansion from 1.1.15 to 1.1.21 ([#198](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/198)) ([5c9bdbe](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/5c9bdbe63e85ccc2adbf9b7d85bca5c23212aea8))
+
 ## [1.0.30](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.29...v1.0.30) (2026-11-02)
 
 

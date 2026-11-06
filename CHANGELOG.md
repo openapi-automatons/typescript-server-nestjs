@@ -1,3 +1,10 @@
+## [1.0.33](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.32...v1.0.33) (2026-11-06)
+
+
+### Bug Fixes
+
+* **deps:** bump @[secure]/tools from 2.2.50 to 2.2.52 ([#201](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/201)) ([d176286](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/d176286d3d1ab30a2d5b135a297796bd5ea58129))
+
 ## [1.0.32](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.31...v1.0.32) (2026-11-03)
 
 

@@ -1,3 +1,12 @@
+## [1.0.35](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.34...v1.0.35) (2026-11-09)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @[secure]/common from 12.3.2 to 12.3.3 ([#205](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/205)) ([bfcecf8](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/bfcecf8e2b089fdac26c9770df711b530b8445ef))
+* **deps-dev:** bump vite from 8.3.5 to 8.3.6 ([#203](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/203)) ([b7f6b4a](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/b7f6b4aa3f873374e1fbf292f730c144546329da))
+* **deps:** bump @[secure]/parser from 1.2.74 to 1.2.76 ([#204](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/204)) ([5111a73](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/5111a7300fafca91d683d039540a0ad3d7dfe0c8))
+
 ## [1.0.34](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.33...v1.0.34) (2026-11-06)
 
 

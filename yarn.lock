@@ -598,10 +598,10 @@
   resolved "https://registry.yarnpkg.com/@napi-rs/lzma-linux-x64-gnu/-/lzma-linux-x64-gnu-1.5.1.tgz#e57d4306966078662038094fb38eb9146dc3aea9"
   integrity sha512-oTXEIha4SsuXdTA4Iyskj0kpdx2yVXdhd75c2v3xGrHFfVMsbhTPZU/nMPL4sWKo4pBHm3aucLaqGlF696dTyQ==
 
-"@nestjs/common@^12.4.0":
-  version "12.4.0"
-  resolved "https://registry.yarnpkg.com/@nestjs/common/-/common-12.4.0.tgz#eb537886f2ef12b3369289a21b2706bd22e86d92"
-  integrity sha512-waVAKCvUJtH9icwnNOxLcx9MDV5hKMpftts3D25SGDIRR5n23jTi53q0lQapc5qmZHLFzNR1jxDsF2g6OdyJIQ==
+"@nestjs/common@^12.4.1":
+  version "12.4.1"
+  resolved "https://registry.yarnpkg.com/@nestjs/common/-/common-12.4.1.tgz#266be2e367d9bbe9141a9e076d0feff546772641"
+  integrity sha512-m5uRB2C6TvDOLYwzqelJiGLY1Px7Z4yDis/v46AnaCqjft6quQUKbFtaQtub3L1GcHYvyeVAri0GJqktCDUHGQ==
   dependencies:
     uid "2.0.2"
     "@standard-schema/spec" "1.1.0"

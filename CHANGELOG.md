@@ -1,3 +1,10 @@
+## [1.0.40](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.39...v1.0.40) (2026-11-13)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump vite from 8.3.6 to 8.3.7 ([#212](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/212)) ([9d36692](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/9d36692fd18f52f0561d015f12f2c4ccd386d0f8))
+
 ## [1.0.39](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.38...v1.0.39) (2026-11-13)
 
 

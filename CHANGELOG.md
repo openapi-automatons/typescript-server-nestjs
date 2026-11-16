@@ -1,3 +1,11 @@
+## [1.0.41](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.40...v1.0.41) (2026-11-16)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump vite from 8.3.7 to 8.3.8 ([#213](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/213)) ([09fff17](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/09fff17be7815b5ab58fad54558f383a357094c5))
+* **deps:** bump @[secure]/parser from 1.2.77 to 1.2.79 ([#214](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/214)) ([0dc8276](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/0dc82769ac59fa274a89e0699ffe19e036ada4de))
+
 ## [1.0.40](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.39...v1.0.40) (2026-11-13)
 
 

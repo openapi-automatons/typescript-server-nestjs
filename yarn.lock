@@ -30,10 +30,10 @@
   resolved "https://registry.yarnpkg.com/@actions/io/-/io-3.0.2.tgz#6f89b27a159d109836d983efa283997c23b92284"
   integrity sha512-nRBchcMM+QK1pdjO7/idu86rbJI5YHUKCvKs0KxnSYbVe3F51UfGxuZX4Qy/fWlp6l7gWFwIkrOzN+oUK03kfw==
 
-"@automatons/parser@^1.2.77":
-  version "1.2.77"
-  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.77.tgz#c0967113a1984d4d271b54d6302cc1fe5599a1c5"
-  integrity sha512-kafi1KToYSejqXGn786q1PBo+2PInPvvn+19JO/ezx+FxUYU5qFLwUTSlW3rMi4SIkOc+0b6j1A7r2YBBTQCKQ==
+"@automatons/parser@^1.2.79":
+  version "1.2.79"
+  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.79.tgz#bb6633f14ceac6425b65ff8eaef81530f108ed72"
+  integrity sha512-G/7X7I/ivVKNAOvFv3sX+47HPczZnEZPxs/am+gnJG/eUhbecPWwebdiuWdMmqo9qvBu/qFEa2Q+AkdpABL6Zg==
   dependencies:
     "@automatons/tools" "^2.2.52"
     change-case "^5.4.4"
@@ -5303,10 +5303,10 @@ validator@^13.15.22:
   resolved "https://registry.yarnpkg.com/validator/-/validator-13.15.35.tgz#81cf455c51f15b69d8d340be5914f3fab00dbf7f"
   integrity sha512-TQ5pAGhd5whStmqWvYF4OjQROlmv9SMFVt37qoCBdqRffuuklWYQlCNnEs2ZaIBD1kZRNnikiZOS1eqgkar0iw==
 
-vite@^8.3.7:
-  version "8.3.7"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-8.3.7.tgz#0fb4dc6a6d15129bf9b4cab99b1c331becf68029"
-  integrity sha512-oxh0dMxrayBr33ScJvvBJ2HBQ2jc1TBrXKR2NyL/MJ9WPuX19mN2DXWUmywKdyw5RFVQBo8hmtb2FMC0LHrnng==
+vite@^8.3.8:
+  version "8.3.8"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-8.3.8.tgz#ad713bf2e46c241f344b5e50401297b77a08621d"
+  integrity sha512-LzOn3h9rG/0vhLdXrV4yJ4QFA9eEoqCl+Yx+kGJd7aB9w6nfNgVHKSYwLPZUHrz4ZGa+t+kXjV9itvcHDLQouA==
   dependencies:
     lightningcss "^1.33.0"
     picomatch "^4.0.7"

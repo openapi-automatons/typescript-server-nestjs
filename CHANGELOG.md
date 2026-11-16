@@ -1,3 +1,11 @@
+## [1.0.42](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.41...v1.0.42) (2026-11-16)
+
+
+### Bug Fixes
+
+* **deps:** bump @[secure]/tools from 2.2.53 to 2.2.55 ([#215](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/215)) ([d00103a](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/d00103a21e8b77476884b4da04154fb908a565ed))
+* **deps:** bump prettier from 3.9.10 to 3.10.1 ([#216](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/216)) ([7d1c4e1](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/7d1c4e1c1c35137389abfcd587b83c401d16686f))
+
 ## [1.0.41](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.40...v1.0.41) (2026-11-16)
 
 

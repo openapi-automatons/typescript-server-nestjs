@@ -30,18 +30,18 @@
   resolved "https://registry.yarnpkg.com/@actions/io/-/io-3.0.2.tgz#6f89b27a159d109836d983efa283997c23b92284"
   integrity sha512-nRBchcMM+QK1pdjO7/idu86rbJI5YHUKCvKs0KxnSYbVe3F51UfGxuZX4Qy/fWlp6l7gWFwIkrOzN+oUK03kfw==
 
-"@automatons/parser@^1.2.79":
-  version "1.2.79"
-  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.79.tgz#bb6633f14ceac6425b65ff8eaef81530f108ed72"
-  integrity sha512-G/7X7I/ivVKNAOvFv3sX+47HPczZnEZPxs/am+gnJG/eUhbecPWwebdiuWdMmqo9qvBu/qFEa2Q+AkdpABL6Zg==
+"@automatons/parser@^1.2.82":
+  version "1.2.82"
+  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.82.tgz#94b115fe9c356ac0dc6125603495450ce3e51a64"
+  integrity sha512-Wny7Y2YhMoNl7vvNuP1lYtLyrVZ5i4JB88K9Wx2tVvs3UbtbiDu2p2gGHOhBtIZodpDz5qHdU5Io116oFx2nyg==
   dependencies:
-    "@automatons/tools" "^2.2.52"
+    "@automatons/tools" "^2.2.53"
     change-case "^5.4.4"
 
-"@automatons/tools@^2.2.52", "@automatons/tools@^2.2.55":
-  version "2.2.55"
-  resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-2.2.55.tgz#e96f204a90772687b8737d3bde592672b0cbd90c"
-  integrity sha512-Mtl48LnlF8vTuHLwnZMRBwdW01lhbq2E/67b2gwnYJKh5WYLMl3ExjBCdreYc/CkT8cFf3kPohUBGgtKs7z23A==
+"@automatons/tools@^2.2.53", "@automatons/tools@^2.2.55":
+  version "2.2.56"
+  resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-2.2.56.tgz#87991edad2215ea94a763065a142de51c6546ef3"
+  integrity sha512-qIqmXbEMF8D5PwZc4EW64ElBPIB8Ykv87KYxIoZhq5BtyzncIteDdXUIyxKbCm6+GlwcgAk2ku90kk4ZgCaE7g==
   dependencies:
     js-yaml "^5.5.0"
 

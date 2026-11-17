@@ -1,3 +1,11 @@
+## [1.0.44](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.43...v1.0.44) (2026-11-17)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @[secure]/common from 12.4.2 to 12.5.0 ([#218](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/218)) ([d1de5b9](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/d1de5b93754b18121be81bb5a6bf30e6044e29f4))
+* **deps:** bump @[secure]/parser from 1.2.79 to 1.2.82 ([#219](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/issues/219)) ([33383fe](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/commit/33383fe17c540354b997a9fa218098eb0cdc0db2))
+
 ## [1.0.43](https://github.com/[secure]-[secure]/typescript-[secure]-[secure]/compare/v1.0.42...v1.0.43) (2026-11-17)
 
 
